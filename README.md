@@ -2,6 +2,23 @@
 
 A quick introduction to the [Stripes Framework](https://stripesframework.org).
 
+## Draft outline
+
+* Introduce and motivate the MVC paradigm
+* Map MVC to Stripes
+* ActionBeans: Coding by convention and annotations
+* ActionBeans: URL binding
+* ActionBeans: Event handlers and Resolutions
+* ActionBeans: Validation
+* ActionBeans: Exception Handling
+* JSP: Layouts, Render, Components
+* JSP: Stripes tag-lib
+* JSP: Bean Helpers
+* JSP: Forms
+* ActionBeans: Property Binding / Type Conversion
+* JSP: Localization
+* Testing
+
 ## Shower presentation instructions
 
 1. [Fork](https://github.com/shower/shower/fork) this repository
