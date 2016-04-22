@@ -6,6 +6,7 @@ A quick introduction to the [Stripes Framework](https://stripesframework.org).
 
 * Introduce and motivate the MVC paradigm
 * Map MVC to Stripes
+* Stripes Lifecycle
 * ActionBeans: Coding by convention and annotations
 * ActionBeans: URL binding
 * ActionBeans: Event handlers and Resolutions
@@ -39,4 +40,4 @@ And you’ll have your slides published on `http://username.github.io/my-slides/
 
 ## References
 
-* Slides by [johannescarlen[(http://www.slideshare.net/johannescarlen/stripes-framework)
+* [Stripes Framework ... in comparison with Struts](http://www.slideshare.net/johannescarlen/stripes-framework)
