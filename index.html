@@ -9,8 +9,8 @@
 </head>
 <body class="shower list">
 	<header class="caption">
-		<h1>Shower Presentation Engine</h1>
-		<p>Yours Truly, Famous Inc.</p>
+		<h1>Introduction to the Stripes Web Framework</h1>
+		<p>github.com/cstroe</p>
 	</header>
 	<section class="slide" id="cover">
 		<h2>Shower Presentation Engine</h2>
@@ -34,22 +34,32 @@
 				font-style:italic;
 				font-size:20px;
 				}
-				#cover p a {
-					color:#FFF;
-					}
+			#cover p a {
+				color:#FFF;
+			}
 		</style>
 	</section>
 	<section class="slide">
-		<h2>Shower key features</h2>
-		<ol>
-			<li>Built on HTML, CSS and vanilla JavaScript</li>
-			<li>Works in all modern browsers</li>
-			<li>Themes are separated from engine</li>
-			<li>Modular and extensible</li>
-			<li>Fully keyboard accessible</li>
-			<li>Printable to PDF</li>
-		</ol>
-		<p class="note">Shower ['ʃəuə] noun. A person or thing that shows.</p>
+		<h2>Model-View-Controller (MVC) Paradigm</h2>
+		<p>Separates responsibilities of business logic (Model) from presentation (View) and application (Controller).</p>
+		<table>
+			<tr>
+				<td><b>Model</b></td>
+				<td>Perform operations related to the application domain</td>
+			</tr>
+			<tr>
+				<td><b>View</b></td>
+				<td>Display the application's state</td>
+			</tr>
+			<tr>
+				<td><b>Controller</b></td>
+				<td>Handle user interaction with the model and the view</td>
+			</tr>
+		</table>
+		<p>Has been widely adopted in web development.</p>
+	</section>
+	<section class="slide">
+		<img src="pictures/mvc.png" alt="Model View Controller Paradigm" class="cover"/>
 	</section>
 	<section class="slide">
 		<h2>Plain text on your slides</h2>
@@ -170,6 +180,24 @@
 				height:0.72em;
 				}
 		</style>
+	</section>
+	<section>
+		References:
+
+		http://c2.com/cgi/wiki?ModelViewControllerHistory
+
+
+		@article{krasner1988description,
+		  title={A description of the model-view-controller user interface paradigm in the smalltalk-80 system},
+		  author={Krasner, Glenn E and Pope, Stephen T and others},
+		  journal={Journal of object oriented programming},
+		  volume={1},
+		  number={3},
+		  pages={26--49},
+		  year={1988}
+		}
+
+		http://www.onextrapixel.com/2012/03/14/a-detailed-overview-of-the-model-view-controller-mvc-coding-structure/
 	</section>
 	<p class="badge">
 		<a href="https://github.com/shower/shower">Fork me on GitHub</a>

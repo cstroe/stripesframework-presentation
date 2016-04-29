@@ -41,3 +41,4 @@ And you’ll have your slides published on `http://username.github.io/my-slides/
 ## References
 
 * [Stripes Framework ... in comparison with Struts](http://www.slideshare.net/johannescarlen/stripes-framework)
+* [Java Web Development with Stripes](http://www.slideshare.net/samaxes/java-web-development-with-stripes)
